@@ -40,4 +40,4 @@ This project helped me practice Python functions, loops, dictionaries, input val
 
 ## Future Possibilities
 
-- Develop a web interface for easier access and usability.
+- Develop a web interface for easier access and usability
